@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="system_online">SYSTEM ONLINE</string>
+    <string name="system_online_hi">सिस्टम सक्रिय</string>
+    <string name="status_ready">ALL SYSTEMS OPERATIONAL</string>
+    <string name="status_ready_hi">सभी प्रणालियाँ चालू हैं</string>
+    <string name="ai_chat">AI Chat</string>
+    <string name="ai_chat_hi">एआई चैट</string>
+    <string name="voice_assistant">Voice Assistant</string>
+    <string name="voice_assistant_hi">वॉयस सहायक</string>
+    <string name="image_generation">Image Gen</string>
+    <string name="image_generation_hi">छवि निर्माण</string>
+    <string name="weather">Weather</string>
+    <string name="weather_hi">मौसम</string>
+    <string name="tools">Tools</string>
+    <string name="tools_hi">टूल्स</string>
+    <string name="input_placeholder">Ask JARVIS anything...</string>
+    <string name="input_placeholder_hi">जार्विस से कुछ भी पूछें...</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="clear_chat_hi">चैट साफ़ करें</string>
+</resources>

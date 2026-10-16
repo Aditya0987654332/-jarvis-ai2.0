@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep tech void background -->
+    <path
+        android:fillColor="#030712"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Subtle circular grid radar lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1000E5FF"
+        android:strokeWidth="0.8"
+        android:pathData="M54,14 A40,40 0 1 0 54,94 A40,40 0 1 0 54,14" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1500E5FF"
+        android:strokeWidth="0.6"
+        android:pathData="M54,26 A28,28 0 1 0 54,82 A28,28 0 1 0 54,26" />
+    <!-- Crosshairs -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1800E5FF"
+        android:strokeWidth="0.8"
+        android:pathData="M54,6 L54,102 M6,54 L102,54" />
+</vector>
